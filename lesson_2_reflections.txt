@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates an environment where we can track changes through commits and 
+using git's simple commands to get information about those commits.
+
