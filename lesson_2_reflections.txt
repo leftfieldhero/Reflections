@@ -36,4 +36,12 @@ When we merge the information that was changed on each branch it is
 combined together in a way that account for all changes on both branches. 
 This shows when the branch and merge were made.
 
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+Automatic merging is quick and will notify you of suspected conflicts.  
+Manually merges allow you not to use git and could take much longer 
+depending on the size of the code.
+
+
 
