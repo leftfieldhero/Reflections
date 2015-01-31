@@ -24,4 +24,16 @@ This would be if I wanted to make a large change without impacting
 working code.  Examples would be adding a different language or some 
 experimental feature.
 
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help build the commit "tree" that will show us where we are and 
+if we've made any branches and how they related to the "master" banch.
+
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+
+When we merge the information that was changed on each branch it is 
+combined together in a way that account for all changes on both branches. 
+This shows when the branch and merge were made.
+
 
