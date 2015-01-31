@@ -17,4 +17,11 @@ The staging area is one step away from commiting and if you have one
 logical change that occured over multiple files then this will allow you 
 to add them in one commit all at the same time.
 
- 
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help? 
+
+This would be if I wanted to make a large change without impacting 
+working code.  Examples would be adding a different language or some 
+experimental feature.
+
+
