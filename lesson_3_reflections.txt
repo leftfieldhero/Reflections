@@ -7,7 +7,8 @@ in this case not privately it does solve the issue of sharing information and ac
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Autmomatically staying up-to-date could result in changing parts of code that I didn't want public
+of getting code that is in another branch that someone else may be working on. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
