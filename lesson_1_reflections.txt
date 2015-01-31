@@ -1,0 +1,56 @@
+How did viewing a diff between two version of a file help you see the bug 
+that was introducted?
+
+I was able to view the changes that were made to the new file juxtaposed
+between the old file.  This enabled me to quickly view all of the changes 
+that were made and the change that created the bug.  I see how testing 
+your code to ensure it's still working and saving reguarly would be 
+beneificial. 
+
+How could having easy access to the entire history of a file make you a 
+more efficient programmer in the long term?
+
+Changes large or small can be reversed quickly and with ease.  If a bug 
+is intoduced and it is too difficult to debug you could still go back to 
+a working version.
+
+What do you think are the pros and cons of manually choosing when to 
+create a commit, like you do in Git, vs having version automatically 
+saved, like Google docs does?
+
+PROS:  Save when meaningful changes occur in a file, saving when small 
+bugs occur, doesn't clutter history, provides a description
+CONS: User error by failing to save(commit) regularly, losing large 
+changes due to failing to save, unable to debug due to user error
+
+Why do you think some version control systems, like Git, allow saving 
+multiple flies in one commit, while others, like Google Docs, treat each 
+file separately?
+
+It's a difference of need. Doc's is meant to be a word processing 
+replacement and changes in one document do not need to be tracked over 
+multiple files because they most likely wont interact.  Where as 
+programming files especially web based have quite a bit of interaction.
+
+How can you use the commands git log and git diff to view the history of 
+files?
+
+Using "git log" shows you where all of the commits have occured throughout
+the project.  This enables you to find the commits that you are looking
+for. Whether that's a broken program compared to a working one or 
+something else.  Using "git diff" shows you the line by line differences 
+between two different commits.
+
+How might using version control make you more confident to make changes 
+that could break something?
+
+It doesn't matter if I break it if I can roll back to an earlier commit 
+when the program was working or compliing the way it was supposed to work 
+and try again.
+
+Now that you have your workspace set up, what do you want to try using 
+Git for?
+
+I would like to see how using git now works differently than before what
+extra information can I see using this new workspace.
+
