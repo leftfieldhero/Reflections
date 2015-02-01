@@ -1,27 +1,35 @@
-When would you want to use a remote repository rather than keeping all your work
-local?
+When would you want to use a remote repository rather than keeping all 
+your work local?
 
-I'd be nice to access my work from no matter where I am and storing information on a server while
-in this case not privately it does solve the issue of sharing information and accessibility.
+I'd be nice to access my work from no matter where I am and storing 
+information on a server while
+in this case not privately it does solve the issue of sharing information 
+and accessibility.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-Autmomatically staying up-to-date could result in changing parts of code that I didn't want public
-of getting code that is in another branch that someone else may be working on. 
+Autmomatically staying up-to-date could result in changing parts of code 
+that I didn't want public of getting code that is in another branch that 
+someone else may be working on. 
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would 
+you use one instead of another?
 
-    Fill in your answer here
+A fork is a like a clone that only occurs on GitHub. A fork is used when 
+trying to copy information from someone elses GitHub to my own. A clone 
+will copy a git repository regardless of where it resides and should be 
+used when you need to copy a repository. A branch is a part of a 
+repository and should be used when experimenting on features that you 
+don't want to interfere with the master.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+
+How would you collaborate without using Git or GitHub?  What would be 
+easier, and what would be harder?
 
     Fill in your answer here
 
