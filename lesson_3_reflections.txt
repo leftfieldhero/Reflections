@@ -26,12 +26,21 @@ don't want to interfere with the master.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-
+I can work on that last commit and whenever I need to get back up to date 
+I can just pull and/or push to/from the server.  Also local can give you 
+so much more speed when conducting a diff or other functions.
 
 How would you collaborate without using Git or GitHub?  What would be 
 easier, and what would be harder?
 
-    Fill in your answer here
+Collaborating without Git or GitHub wouldn't allow for quick changes to 
+be viewed and there would be someone who's sole responsibility would be 
+to track changes. But if we are working far apart or not on the same 
+schedule it makes changes difficult to manage and whenever a working 
+version came out everyone would have to make sure they were using the 
+mose up-to-date version.  Learning Git/GitHub and Privacy are important 
+barriers to projects.  You have to pay for privacy on GitHub and I've 
+just spent a long time learning how to use Git.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
