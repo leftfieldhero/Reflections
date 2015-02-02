@@ -42,7 +42,14 @@ mose up-to-date version.  Learning Git/GitHub and Privacy are important
 barriers to projects.  You have to pay for privacy on GitHub and I've 
 just spent a long time learning how to use Git.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than 
+directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+I would think that making changes on a separate branch allows you to
+experiment on new tools and features that are going to be added. I'd
+probably make a branch whenever I'm thinking of making abig change to
+code that could take a longer amount of time. So, I don't want to have
+broken versions in my master branch. That way I can be working and not 
+have to worry about making changes to the working code along the way.
+
+
