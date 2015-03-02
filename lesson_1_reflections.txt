@@ -12,7 +12,8 @@ more efficient programmer in the long term?
 
 Changes large or small can be reversed quickly and with ease.  If a bug 
 is intoduced and it is too difficult to debug you could still go back to 
-a working version.
+a working version. Also if a large revison or refactoring is required
+then you can keep a working version but still edit large portions without fear.
 
 What do you think are the pros and cons of manually choosing when to 
 create a commit, like you do in Git, vs having version automatically 
